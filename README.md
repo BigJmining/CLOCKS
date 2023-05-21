@@ -1,5 +1,9 @@
 # Digital CLOCK and Countdown Timer
 
-## to run Timer:  python digital_countdown_timer.py [time] [name]
+## to Run Timer:  
 
-## to run Clock:  python digital_clock.py
+    python digital_countdown_timer.py [time] [name]
+
+## to Run Clock:  
+    
+    python digital_clock.py
